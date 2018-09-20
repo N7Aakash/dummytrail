@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    font-size: 15px;
+    background: #ccc;
+}
+.trial{
+    font-size: 15px;
+}
+.trial input{
+    padding: 10px;
+    border-radius: 2px;
+    margin: 10px;
+    font-size: 15px;
+}
+.button{
+    padding: 5px;
+    margin: 5px;
+    background: #fc4;
+    color: #ddd;
+}
+
